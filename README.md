@@ -2,4 +2,4 @@
 - 👀 I’m interested in Learning new Coding language, tips and advice.
 - 🌱 I’m currently learning BsComputer Science in XU
 - 💞️ I’m looking to collaborate on someone who can Teach me.
-- 📫 How to reach me 
+- 📫 Reach me at my gmail jaybenrosales12@gmail.com
