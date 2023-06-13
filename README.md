@@ -1,3 +1,4 @@
+<img src = "Cover.png">
 
 <h1 align="center">Hi 👋, I'm Joven</h1>
 <h3 align="center">A passionate developer from PH</h3>
