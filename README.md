@@ -17,7 +17,7 @@
 
 # 📊 GitHub Stats:
 
-<a href="https://skyline.github.com/jayven02/2022" width="700" </a>
+<a href="https://https:skyline.github.com/jayven02/2022" title="2021 GitHub Skyline">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JayVen02&theme=blueberry&hide_border=false)<br/>
 
