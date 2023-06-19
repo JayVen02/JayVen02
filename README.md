@@ -3,7 +3,7 @@
 # 💫 About Me:
 🌱 I’m currently learning Front-End Framework(React)<br><br>📫 How to reach me jaybenrosales12@gmail.com
 
-<img align = "right" alt = "coffee" width = "400" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU">
+<img align = "right" alt = "coffee" width = "400" src = "">
 
 ## 🌐 Socials:
 <p align="left">
