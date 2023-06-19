@@ -16,6 +16,7 @@
 
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayven02&show_icons=true&locale=en&layout=compact" alt="jayven02 &theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+     
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JayVen02&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayVen02&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
