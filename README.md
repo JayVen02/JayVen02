@@ -14,7 +14,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JayVen02&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayVen02&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JayVen02&theme=radical&no-frame=false&no-bg=false&margin-w=4)
