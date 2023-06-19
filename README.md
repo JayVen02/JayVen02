@@ -17,7 +17,7 @@
 
 # 📊 GitHub Stats:
 
-<img src="https://user-images.githubusercontent.com/36594527/208378907-aa4a028f-5546-4ac4-9245-140a80bec975.gif" width="700">
+<img src="[https://user-images.githubusercontent.com/36594527/208378907-aa4a028f-5546-4ac4-9245-140a80bec975.gif](https://skyline.github.com/jayven02/2022)" width="700">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JayVen02&theme=blueberry&hide_border=false)<br/>
 
