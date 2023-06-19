@@ -3,7 +3,7 @@
 # 💫 About Me:
 🌱 I’m currently learning Front-End Framework(React)<br><br>📫 How to reach me jaybenrosales12@gmail.com
 
-<img align = "right" alt = "coffee" width = "400" src = "[https://cdna.artstation.com/p/assets/images/images/008/437/908/original/hayley-h-salya.gif?1512759839](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)">
+<img align = "right" alt = "coffee" width = "400" src = "[https://cdna.artstation.com/p/assets/images/images/008/437/908/original/hayley-h-salya.gif?1512759839]">
 
 ## 🌐 Socials:
 <p align="left">
