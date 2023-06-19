@@ -15,10 +15,10 @@
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 # 📊 GitHub Stats:
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayven02&show_icons=true&locale=en" alt="jayven02" /></p>
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JayVen02&theme=blueberry&hide_border=false)<br/>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayven02&theme=blueberry&hide_border=false" alt="jayven02" /></p>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayVen02&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
