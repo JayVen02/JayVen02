@@ -1,4 +1,4 @@
-![image](https://github.com/JayVen02/JayVen02/assets/104308582/ef3d6a35-3cde-45e8-a163-063fc7c1e09b)<img src = "Cover.png" alt = "logo" style="max-width: 100%;">
+<img src = "Cover.png" alt = "logo" style="max-width: 100%;">
 
 # 💫 About Me:
 🌱 I’m currently learning Front-End Framework(React)<br><br>📫 How to reach me jaybenrosales12@gmail.com
