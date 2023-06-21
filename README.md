@@ -1,4 +1,4 @@
-<img src = "Cover.png" alt = "logo" style="max-width: 100%;">
+<img src = "Cover.png" alt = "logo" width="400" height = "200">
 
 # 💫 About Me:
 🌱 I’m currently learning Front-End Framework(React)<br><br>📫 How to reach me jaybenrosales12@gmail.com
