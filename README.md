@@ -22,13 +22,12 @@
  # GitHub Stats:
 
 <img align = "right" alt = "Techno Octo" width = "450" height = "450" src = "Fintechtocat.png">
- 
-![](https://github-readme-streak-stats.herokuapp.com/?user=JayVen02&theme=blueberry&hide_border=false)<br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayven02&theme=blueberry&hide_border=false" alt="jayven02" /></p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayVen02&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayven02&theme=blueberry&hide_border=false" alt="jayven02" /></p>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=JayVen02&theme=blueberry&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JayVen02&theme=radical&no-frame=false&no-bg=false&margin-w=4)
