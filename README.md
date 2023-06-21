@@ -21,7 +21,7 @@
 
  # GitHub Stats:
 
-<img align = "right" alt = "Techno Octo" width = "450" height = "450" src = "Fintechtocat.png">
+<img align = "right" alt = "Techno Octo" width = "400" height = "400" src = "Fintechtocat.png">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayVen02&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
