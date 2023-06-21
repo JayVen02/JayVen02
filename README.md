@@ -17,7 +17,7 @@
 
 <img align = "left" alt = "Coding" width = "50" src = "https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif">
 
- # 📊 GitHub Stats:
+ # GitHub Stats:
  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JayVen02&theme=blueberry&hide_border=false)<br/>
 
