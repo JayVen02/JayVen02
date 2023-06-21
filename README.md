@@ -21,7 +21,7 @@
 
  # GitHub Stats:
 
-<img align = "right" alt = "Techno Octo" width = "200" height = "200" src = "Fintechtocat.png">
+<img align = "right" alt = "Techno Octo" width = "300" height = "300" src = "Fintechtocat.png">
  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JayVen02&theme=blueberry&hide_border=false)<br/>
 
