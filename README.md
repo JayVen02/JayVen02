@@ -1,5 +1,7 @@
 <img src = "Cover.png" alt = "logo" width="2000" height = "450">
 
+<img align = "right" alt = "Coding" width = "400" src = "octocat-1687362033836.png">
+
 # 💫 About Me:
 🌱 I’m currently learning Front-End Framework(React)<br><br>📫 How to reach me jaybenrosales12@gmail.com
 
