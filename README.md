@@ -1,4 +1,4 @@
-<img src = "Cover.png" alt = "logo" width="2000" height = "450">
+<img src = "Cover.png" alt = "logo" style max-width="100%">
 
 <img align = "left" alt = "Octocat Holding a Coffee" width = "150" src = "octocat-1687362033836.png">
 
