@@ -1,6 +1,6 @@
 <img src = "Cover.png" alt = "logo" style max-width="100%">
 
-<img align = "left" alt = "Octocat Holding a Coffee" width = "150" src = "octocat-1687362033836.png">
+<img align = "left" alt = "Octocat Holding a Coffee" width = "150" style="max-width: 100%;" src = "octocat-1687362033836.png">
 
 # 💫 About Me:
 🌱 I’m currently learning Front-End Framework(React)<br><br>📫 How to reach me jaybenrosales12@gmail.com
