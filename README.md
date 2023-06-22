@@ -6,7 +6,7 @@
 🌱 I’m currently learning Front-End Framework(React)<br><br>📫 How to reach me jaybenrosales12@gmail.com
 
 <img align = "right" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="400" height="300" style="max-width: 100%;">
-
+<br>
 # 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/joven-rosales-288264279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joven-rosales-288264279/" height="30" width="40" /></a>
