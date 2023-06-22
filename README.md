@@ -5,7 +5,7 @@
 # 💫 About Me:
 🌱 I’m currently learning Front-End Framework(React)<br><br>📫 How to reach me jaybenrosales12@gmail.com
 
-<img align = "right" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="400" height="200" style="max-width: 100%;">
+<img align = "right" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="400" height="300" style="max-width: 100%;">
 
 # 🌐 Socials:
 <p align="left">
