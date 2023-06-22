@@ -1,12 +1,11 @@
 <img src = "Cover.png" alt = "logo" style max-width="100%">
 
-<img align = "left" alt = "Octocat Holding a Coffee" width = "150" style="max-width: 100%;" src = "octocat-1687362033836.png">
+<img align = "left" alt = "Octocat Holding a Coffee" width = "100" style="max-width: 100%;" src = "octocat-1687362033836.png">
 
 # 💫 About Me:
 🌱 I’m currently learning Front-End Framework(React)<br><br>📫 How to reach me jaybenrosales12@gmail.com
 
 <img align = "right" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="400" height="300" style="max-width: 100%;">
-<br>
 
 # 🌐 Socials:
 <p align="left">
