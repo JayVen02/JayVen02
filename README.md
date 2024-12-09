@@ -23,7 +23,7 @@
 <img align = "right" alt = "Techno Octo" width = "350" height = "350" style="max-width: 100%;" src = "Fintechtocat.png">
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayVen02&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=10" alt="Top Languages"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayVen02&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=10" alt="Top Languages"/>
 </p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayven02&theme=blueberry&hide_border=false" alt="jayven02" /></p>
