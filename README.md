@@ -21,7 +21,7 @@
 
  # GitHub Stats:
 
-<img align = "right" alt = "Techno Octo" width = "350" height = "350" style="max-width: 100%;" src = "Fintechtocat.png">
+<img align = "right" alt = "Techno Octo" width = "250" height = "250" style="max-width: 100%;" src = "Fintechtocat.png">
 
 ![](https://github-readme-stats.vercel.app/api?username=JayVen02&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JayVen02&theme=dracula&hide_border=false)<br/>
